@@ -1,0 +1,7 @@
+*.htm
+*.html
+*.json
+*.jpg
+*.ipynb
+*.csv
+!*Specs*.csv
